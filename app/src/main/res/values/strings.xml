@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">AppActivity</string>
-    <string name="title_activity_maps">MyMap_Zhehai</string>
+    <string name="app_name">ZhaiMap</string>
+    <string name="title_activity_maps">MyMap</string>
 </resources>
